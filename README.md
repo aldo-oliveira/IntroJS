@@ -1,2 +1,2 @@
 # alura-javascript
-Trainning with Javascript in Alura
+Trainning with Javascript at Alura
