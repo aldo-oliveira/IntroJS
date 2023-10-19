@@ -8,5 +8,3 @@ console.log(idade/2);
 
 const idadeSomada = idade+2;
 console.log(idadeSomada);
-
-teste git
